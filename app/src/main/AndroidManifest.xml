@@ -16,7 +16,7 @@
             android:name=".ResultActivity2"
             android:exported="false" />
         <activity
-            android:name=".InsrertActivity2"
+            android:name=".InsertActivity2"
             android:exported="false" />
         <activity
             android:name=".ResultActivity1"

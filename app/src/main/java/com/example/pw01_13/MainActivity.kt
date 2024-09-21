@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun onClickTask2(view: View){
-        val intent = Intent(this, InsrertActivity2::class.java)
+        val intent = Intent(this, InsertActivity2::class.java)
         startActivity(intent)
     }
 }
